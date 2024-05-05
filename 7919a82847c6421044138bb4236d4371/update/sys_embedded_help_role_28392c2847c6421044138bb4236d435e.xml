@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="app_admin" name="app_admin">60392c2847c6421044138bb4236d435c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-05 06:50:12</sys_created_on>
+        <sys_id>28392c2847c6421044138bb4236d435e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>60392c2847c6421044138bb4236d435c</sys_name>
+        <sys_package display_value="Sample_Global_App" source="7919a82847c6421044138bb4236d4371">7919a82847c6421044138bb4236d4371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample_Global_App">7919a82847c6421044138bb4236d4371</sys_scope>
+        <sys_update_name>sys_embedded_help_role_28392c2847c6421044138bb4236d435e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-05 06:50:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
